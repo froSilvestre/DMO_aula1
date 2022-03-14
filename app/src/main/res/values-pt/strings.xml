@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC - Aula 3</string>
+    <string name="app_save">Salvar</string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="input_name">Digite seu nome:</string>
+    <string name="bem_vindo"> Seja bem vindo(a), </string>
+</resources>
